@@ -180,9 +180,9 @@ Client → Controller → Service → Repository → Database
 
 ## Testing
 
-* ✅ **Postman**: Manual endpoint testing with role-based credentials
-* ✅ **JUnit + Mockito**: For services, controllers, and repositories
-* ✅ **Spring Boot Test**: Integration tests using H2
+*  **Postman**: Manual endpoint testing with role-based credentials
+*  **JUnit + Mockito**: For services, controllers, and repositories
+*  **Spring Boot Test**: Integration tests using H2
 
 Run:
 
